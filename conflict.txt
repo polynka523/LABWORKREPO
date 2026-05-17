@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "partner version" 
+=======
+"owner version" 
+>>>>>>> 30e28045016b672a853a9506b7bf44b2a37e59ce
