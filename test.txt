@@ -8,3 +8,4 @@
 >>>>>>> newdev
 "Сергеевич" 
 "SERGEEVICH" 
+"ALEXANDRO" 
